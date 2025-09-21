@@ -48,7 +48,7 @@ Skill peserta sangat beragam, mulai dari Leadership, Public Speaking, hingga ski
 ________________________________________
 4. Kesimpulan
 1.	Mayoritas peserta berasal dari Jawa Barat dan kuliah di Universitas Diponegoro.
-2.	Distribusi gender relatif [seimbang/tidak seimbang], dengan rasio pria : wanita = 125 : 338.
+2.	Distribusi gender relatif tidak seimbang, dengan rasio pria : wanita = 125 : 338.
 3.	Departemen paling diminati adalah Administration And Finance.
 4.	Skill dominan yang dimiliki peserta adalah Leadership.
 ________________________________________
