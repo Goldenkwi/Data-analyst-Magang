@@ -34,11 +34,13 @@ ________________________________________
 3. Metrik Unik
 1.	Rasio Pria vs Wanita per Departemen
 Rasio gender dianalisis dengan menghitung jumlah pria dan wanita di setiap departemen. Dan saya mendapatkan data bahwa rasio Wanita lebih banyak dalam berbagai departemen di bandingkan pria.
-2.	Distribusi Peserta per Kota/Provinsi
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d2d9a14a-35df-4e58-a2eb-c102c5408fdd" />
+**noted** data di hitung dalam perbatasan 1, jika melebihi satu maka pria lebih banyak begitupun sebaliknya
+3.	Distribusi Peserta per Kota/Provinsi
 Peserta sebagian besar berasal dari pulau Jawa (Jawa Barat, Jawa Tengah, Jawa Timur, DKI Jakarta, dan Banten).
  <img width="886" height="329" alt="image" src="https://github.com/user-attachments/assets/9c086219-ec34-4510-9246-ca7d21388568" />
 
-3.	Distribusi Skill
+4.	Distribusi Skill
 Skill peserta sangat beragam, mulai dari Leadership, Public Speaking, hingga skill teknis seperti Excel, Python, dan WordPress. Skill yang paling banyak dimiliki peserta adalah Leadership.
  <img width="871" height="275" alt="image" src="https://github.com/user-attachments/assets/6484044d-a2ef-4cfd-b08f-65efb1af8209" />
 
