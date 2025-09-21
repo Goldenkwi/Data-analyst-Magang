@@ -34,7 +34,8 @@ ________________________________________
 3. Metrik Unik
 1.	Rasio Pria vs Wanita per Departemen
 Rasio gender dianalisis dengan menghitung jumlah pria dan wanita di setiap departemen. Dan saya mendapatkan data bahwa rasio Wanita lebih banyak dalam berbagai departemen di bandingkan pria.
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d2d9a14a-35df-4e58-a2eb-c102c5408fdd" />
+<img width="1737" height="811" alt="image" src="https://github.com/user-attachments/assets/c21acbe9-a8d4-464e-be93-d9c4a35ce3d3" />
+
 **noted** data di hitung dalam perbatasan 1, jika melebihi satu maka pria lebih banyak begitupun sebaliknya
 3.	Distribusi Peserta per Kota/Provinsi
 Peserta sebagian besar berasal dari pulau Jawa (Jawa Barat, Jawa Tengah, Jawa Timur, DKI Jakarta, dan Banten).
