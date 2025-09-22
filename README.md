@@ -52,3 +52,6 @@ ________________________________________
 3.	Departemen paling diminati adalah Administration And Finance.
 4.	Skill dominan yang dimiliki peserta adalah Leadership.
 ________________________________________
+
+
+cobain
